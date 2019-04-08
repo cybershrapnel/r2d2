@@ -29,5 +29,17 @@ https://xtdevelopment.net/nanocheeze.exe
 
 Warning: app requires 32bit JAVA SDK! (Not the JRE)
 
+You can run the included JAR file above if you want but the corresponding torrent verifier exe will only run if you launch this from the nanocheeze.exe application.
 
-https://github.com/cybershrapnel/r2d2/blob/master/images/8bit.png
+It is setup to compress files all the way up to the ridiculous level in theory you could make time capsules of your files in the hopes that the future can use these compressed files to reconstruct your data.
+
+ie. You could encrypt several 100 gigabytes of home videos into a single half gigabyte, put it on a cd or usb stick and then bury it in a time capsule. In theory there is enough data in there tiered torrent files to reproduce the data given enough processing power and advancement in computer technology and algorthms. But by the time they find this they will probably have developed a different version of this method so reconstructing your time capsule data might prove non-trivial for the future.
+
+Images of current process in action:
+
+https://raw.githubusercontent.com/cybershrapnel/r2d2/master/images/8bit.png
+https://raw.githubusercontent.com/cybershrapnel/r2d2/master/images/warning.png
+https://raw.githubusercontent.com/cybershrapnel/r2d2/master/images/warning2.png
+https://raw.githubusercontent.com/cybershrapnel/r2d2/master/images/level.png
+https://raw.githubusercontent.com/cybershrapnel/r2d2/master/images/verify.png
+https://raw.githubusercontent.com/cybershrapnel/r2d2/master/images/verified.png
