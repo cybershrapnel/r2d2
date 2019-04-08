@@ -1,4 +1,4 @@
-# r2d2
+# R2D2
 Quantum Compression (Reliably Reconstructable Data Deconstruction)
 
 This is an incredibly experimental algorithm using Torrent hashing and MEQUAVIS layers to deconstruct a file using classical computing in a way that is potentially reconstructable with quantum computers eventually. 
