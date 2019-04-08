@@ -28,3 +28,6 @@ A compiled and working version of R2D2 is available for demonstration with the n
 https://xtdevelopment.net/nanocheeze.exe
 
 Warning: app requires 32bit JAVA SDK! (Not the JRE)
+
+
+https://github.com/cybershrapnel/r2d2/blob/master/images/8bit.png
