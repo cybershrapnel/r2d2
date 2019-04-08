@@ -22,3 +22,7 @@ Current algorithm makes a tiered layering of 8-bit and up torrent files that are
 This is a pet project or a side project. Not commercially available at this time or for any time in the foreseeable future.
 
 Jokingly referred to as QNC (Quantum NanoCompression) or R2D2
+
+A compiled and working version of R2D2 is available for demonstration with the nanocheeze.exe app for the MEQUAVIS Control Panel GUI
+https://xtdevelopment.net/nanocheeze.exe
+Warning: app requires 32bit JAVA SDK! (Not the JRE)
