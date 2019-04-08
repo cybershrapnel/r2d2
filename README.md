@@ -31,9 +31,11 @@ Warning: app requires 32bit JAVA SDK! (Not the JRE)
 
 You can run the included JAR file above if you want but the corresponding torrent verifier exe will only run if you launch this from the nanocheeze.exe application.
 
-It is setup to compress files all the way up to the ridiculous level in theory you could make time capsules of your files in the hopes that the future can use these compressed files to reconstruct your data.
+It is setup to compress files all the way up to the ridiculous level of 25600:1 compression at 1 megabye base hashing level. 
 
-ie. You could encrypt several 100 gigabytes of home videos into a single half gigabyte, put it on a cd or usb stick and then bury it in a time capsule. In theory there is enough data in there tiered torrent files to reproduce the data given enough processing power and advancement in computer technology and algorthms. But by the time they find this they will probably have developed a different version of this method so reconstructing your time capsule data might prove non-trivial for the future.
+In theory you could make time capsules of your files with 1 meg compression, with the hopes that the future can use these compressed files to reconstruct your data.
+
+ie. You could encrypt/compress/hash several hundred gigabytes of home videos into a single half gigabyte of data, put it on a cd or usb stick and then bury it in a time capsule. In theory there is enough data in the tiered torrent files to reproduce the data, given enough processing power and advancement in computer technology and algorthms. But by the time they find this data, the future will probably have developed a different version of this method of compression, so reconstructing your time capsule data might prove non-trivial for the future.
 
 Images of current process in action:
 
